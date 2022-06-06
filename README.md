@@ -17,7 +17,7 @@ Set up the repository and tools.
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://caasperr.github.io/Book-Store_Website/)
+[Live Demo Link](https://caasperr.github.io/Book-Store/)
 
 
 
