@@ -1,12 +1,11 @@
 .hotSellingBooks {
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 50px;
-}
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
 
-button {
+  button {
     border: none;
     outline: none;
     height: 40px;
@@ -14,16 +13,17 @@ button {
     font-size: 1.3rem;
     margin-top: 20px;
     background-color: $primarycolor;
+  }
 }
 
 .descriptionColor {
-    color: $bg-color;
+  color: $bg-color;
 }
 
 .bg-color {
-    background-color: $bg-color;
+  background-color: $bg-color;
 }
 
 .shadow {
-    box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8);
+  box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.8);
 }
